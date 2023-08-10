@@ -1,0 +1,13 @@
+.ok {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    text-transform: uppercase;
+    font-weight: 1000;
+}
+.p {
+    position: absolute;
+    right: 105px;
+     bottom: 30px;
+     font-size: 110px;
+} 
